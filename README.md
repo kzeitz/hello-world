@@ -2,4 +2,4 @@
 Just another repository
 By Karlton Zeitz
 
-Skilled developer editing files.
+Skilled developer at editing files.
